@@ -10,7 +10,7 @@
 
 
 
-extern void as5600_read_angle(uint16_t* angle);
+extern void as5600_read_raw_angle(uint16_t* angle);
 
 
 
